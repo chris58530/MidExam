@@ -1,0 +1,34 @@
+{
+    "name": "InputMap",
+    "maps": [
+        {
+            "name": "ActionMap ",
+            "id": "4c3db2fc-37d8-4107-b8fd-ccebe4c055e2",
+            "actions": [
+                {
+                    "name": "Action1",
+                    "type": "Button",
+                    "id": "e62b1db7-5506-4d64-9392-2bfc869f9ac2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cef33828-26bb-4d40-a6bf-d4f01dc1585c",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Action1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
